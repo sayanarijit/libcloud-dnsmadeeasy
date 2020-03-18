@@ -2,3 +2,6 @@
 *.sublime-*
 *.egg
 *.egg-info
+.eggs/
+.mypy_cache/
+.venv/
